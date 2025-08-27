@@ -34,7 +34,7 @@ A brief explanation of what the project is about, what problem it solves, or wha
    ```
 
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 > ![Demo Screenshot](assets/bot.png)
 
