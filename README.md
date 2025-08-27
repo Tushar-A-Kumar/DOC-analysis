@@ -20,18 +20,18 @@ A brief explanation of what the project is about, what problem it solves, or wha
 1. Clone the repository:
    ```bash
  git clone https://github.com/Tushar-A-Kumar/DOC-analysis
-   ```
+   
 
 2. Install dependencies (if any):
    ```bash
    pip install -r requirements.txt
-   ```
+
 
 ## ▶️ How to Run
 
 ```bash
 python your_script_name.py
-```
+
 
 
 
