@@ -36,7 +36,7 @@ A brief explanation of what the project is about, what problem it solves, or wha
 
 ## 📸 Screenshots (Optional)
 
-> *![[bot.png]]
+> ![Demo Screenshot](assets/bot.png)
 
 ## 🧠 Built With
 
